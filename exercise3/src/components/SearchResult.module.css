@@ -1,0 +1,43 @@
+
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.author
+{
+  color: black;
+  font-size: 25px;
+}
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.rating
+{
+  color: #e24949;
+  font-size: 22px;
+}
+
+
+
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+input[type=radio] {
+  display: none;
+}
+.star{
+  
+}
+
+

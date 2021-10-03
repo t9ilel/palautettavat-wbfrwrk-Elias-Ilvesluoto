@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Madden NFL 22",
+      "author": "by Electronic Arts",
+      "type": "Playstation 5",
+      "price": 62.30,
+      "image": "NFL_22.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "Call of Duty: Vanguard",
+      "author": "By ACTIVISION",
+      "type": "XBOX ONE",
+      "price": 59.99,
+      "image": "CODVG.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Outcast 2",
+      "author": "by THQ Nordic ",
+      "type": "PC",
+      "price": 69.99,
+      "image": "Outcast2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lost Judgment",
+      "author": "By SEGA",
+      "type": "PlayStation 4",
+      "price": 40.55,
+      "image": "LJ.jpg"
+    },
+    {
+      "id": 5,
+      "name": "NBA 2K22: 75,000 VC",
+      "author": "by Take-Two 2K",
+      "type": "Xbox [Digital Code]",
+      "price": 69.99,
+      "image": "NBA2K22.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Crysis Remastered Trilogy",
+      "author": "By Crytek",
+      "type": "PlayStation 4",
+      "price": 35.25,
+      "image": "crysis.jpg"
+    }
+  ]
+}
