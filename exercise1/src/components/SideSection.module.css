@@ -1,0 +1,61 @@
+.headerBackground {
+    background-color: rgb(121, 140, 223);
+    width: 30%;
+    height: 700px;
+
+    
+}
+.sidecontainer {
+    color: white;
+    width: auto;
+    margin-left: auto;
+    margin-right: 0px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(230, 232, 243);
+    height: auto;
+    border-bottom:3px solid white;
+}
+
+.numero {
+    color: rgb(95, 204, 62);
+    margin-left: 10px;
+    font-size: 25px;
+    margin-top: 3px;
+    float: left;
+    
+}
+
+.topic{
+    font-size: 20px;
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.body{
+    font-size: 18px;
+    color: black;
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+
+.teksti {
+    font-size: 15px;
+    color: black;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+.luetuimmat {
+    font-size: 15px;
+    color: black;
+    margin-left: 5px;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+

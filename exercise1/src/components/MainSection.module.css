@@ -1,0 +1,46 @@
+.headerBackground {
+    background-color: rgb(121, 140, 223);
+    width: 100% ;
+    height: 700px;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+.maincontainer {
+    width: 600px ;
+    font-size: 18px;
+    height: auto;
+    margin-right: 10px;
+    margin-left: 0px;
+    color: white;
+    background-color: rgb(230, 232, 243);
+    border-bottom: 7px solid white;
+}
+.topic{
+    color: rgb(95, 204, 62);
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+}
+
+.teksti{
+    color: black;
+    margin-right: 15px;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-bottom: 25px;
+
+}
+
+.leima{
+    color: green;
+    margin-right: 10px;
+    margin-left: 0px;
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
